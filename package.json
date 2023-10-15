@@ -66,7 +66,9 @@
     "test:staged": "jest --no-cache --runInBand --onlyChanged",
     "test:watch": "jest --no-cache --runInBand --watch"
   },
-  "dependencies": {},
+  "dependencies": {
+    "systeminformation": "^5.21.8"
+  },
   "devDependencies": {
     "@commitlint/cli": "^17.6.7",
     "@commitlint/config-angular": "^17.6.7",
