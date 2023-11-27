@@ -37,7 +37,6 @@ module.exports = {
     // },
   },
   rules: {
-    'no-console': ['warn', { allow: ['warn', 'error'] }],
     'no-warning-comments': ['warn', { terms: ['todo', 'fixme'], location: 'anywhere' }],
     '@typescript-eslint/no-var-requires': 'off',
     '@typescript-eslint/no-empty-interface': 'off',
