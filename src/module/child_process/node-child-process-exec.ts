@@ -3,7 +3,7 @@ import util from 'util';
 const exec = util.promisify(require('child_process').exec);
 
 /**
- * npx ts-node src/module/node/child_process/node-child-process-exec.ts
+ * npx ts-node src/module/child_process/node-child-process-exec.ts
  */
 
 const runProcesses = async () => {

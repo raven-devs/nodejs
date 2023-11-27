@@ -1,7 +1,7 @@
 import { readdir } from 'fs/promises';
 
 /**
- * npx ts-node src/module/node/readdir/readdir.ts
+ * npx ts-node src/module/readdir/readdir.ts
  */
 
 const getDirectories = async (source: string) => {

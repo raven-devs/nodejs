@@ -1,7 +1,7 @@
 import fs from 'fs';
 
 /**
- * npx ts-node src/module/node/stream/node-read-stream.ts
+ * npx ts-node src/module/stream/node-read-stream.ts
  */
 
 const path = './src/module/node/stream/node-read-stream.ts';

@@ -1,7 +1,7 @@
 import child_process from 'node:child_process';
 
 /**
- * npx ts-node src/module/node/child_process/node-child-process-spawn.ts
+ * npx ts-node src/module/child_process/node-child-process-spawn.ts
  */
 
 for (let i = 0; i < 3; i++) {

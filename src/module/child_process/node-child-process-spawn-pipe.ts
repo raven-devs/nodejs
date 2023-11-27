@@ -1,8 +1,8 @@
 import child_process from 'node:child_process';
 
 /**
- * chmod -R +rwx src/module/node/child_process/node-child-process-spawn-pipe.ts
- * npx ts-node src/module/node/child_process/node-child-process-spawn-pipe.ts
+ * chmod -R +rwx src/module/child_process/node-child-process-spawn-pipe.ts
+ * npx ts-node src/module/child_process/node-child-process-spawn-pipe.ts
  */
 
 const options = {
